@@ -1,6 +1,6 @@
 #####苹果偷跑流量问题#####
-HOST,cl5.apple.com,REJECT
-HOST,cl2-cn.apple.com,REJECT
+#HOST,cl5.apple.com,REJECT
+#HOST,cl2-cn.apple.com,REJECT
 ###日产智联？###
 HOST,cdnvitfile.venucia.com,REJECT
 HOST-suffix,vectormap0.bdimg.com,REJECT
